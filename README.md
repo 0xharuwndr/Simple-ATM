@@ -53,11 +53,7 @@ Ensure you have Git and the appropriate language runtime installed on your machi
 
 ```text
 Simple-ATM/
-├── src/
-│   ├── ATM.cpp / ATM.py / ATM.java
-│   └── User.cpp / User.py / User.java
-├── .gitignore
-├── LICENSE
+├── SimpleATM.py/
 └── README.md
 ```
 
